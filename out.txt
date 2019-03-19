@@ -1,0 +1,12 @@
+<1552829690>
+00455F90
+Solution: Send 17 cargo from 1 to 1; Send 3 cargo from 1 to 2; Send 10 cargo from 2 to 2; Send 1 cargo from 2 to 3; Send 1 cargo from 2 to 4; Send 10 cargo from 3 to 4; Send 5 cargo from 3 to 5; Send 16 cargo from 4 to 5; 
+_______end_solution_______
+<1552829788>
+004E5F90
+Solution: Send 17 cargo from 1 to 1; Send 3 cargo from 1 to 2; Send 10 cargo from 2 to 2; Send 1 cargo from 2 to 3; Send 1 cargo from 2 to 4; Send 10 cargo from 3 to 4; Send 5 cargo from 3 to 5; Send 16 cargo from 4 to 5; 
+_______end_solution_______
+<1552830076>
+009A8F50
+Solution: Send 17 cargo from 1 to 1; Send 3 cargo from 1 to 2; Send 10 cargo from 2 to 2; Send 1 cargo from 2 to 3; Send 1 cargo from 2 to 4; Send 10 cargo from 3 to 4; Send 5 cargo from 3 to 5; Send 16 cargo from 4 to 5; 
+_______end_solution_______
